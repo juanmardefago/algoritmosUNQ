@@ -2,4 +2,4 @@
 
 ### Entregas
 
-15-09: Busqueda binaria, busqueda terciaria
+[15-09: Busqueda binaria, busqueda terciaria](./entregas/binary-ternary.ipynb "Busqueda binaria y ternaria")
